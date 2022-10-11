@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial intelligence 
 - 🌱 I’m currently learning Data Structures and algorithms 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me saitirupathimoru2129@gmail.com
 
 <!---
 Bobby441/Bobby441 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
