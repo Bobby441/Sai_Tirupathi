@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bobby441
-- 👀 I’m interested in Artificial intelligence 
-- 🌱 I’m currently learning Data Structures and algorithms 
+- 👋 Hi, I’m @Sai_Tirupathi
+- 👀 I’m interested in Artificial intelligence, machine learning, deep learning, robotics.
+- 🌱 I’m currently learning Data Structures and algorithms and web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me saitirupathimoru2129@gmail.com
 
