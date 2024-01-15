@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sai_Tirupathi
-- 👀 I’m interested in Artificial intelligence, machine learning, deep learning, robotics.
-- 🌱 I’m currently learning Data Structures and algorithms and web development.
+- 👀 I’m interested in Artificial intelligence and robotics.
+- 🌱 I’m currently learning Full Stack Web Development.I have deep knowledge on Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me saitirupathimoru2129@gmail.com
 
